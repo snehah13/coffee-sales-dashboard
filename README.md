@@ -33,7 +33,7 @@ To use or modify this project, ensure you have:
 ## 🚀 Installation & Usage
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/coffee-sales-excel.git
+   git clone https://github.com/snehah13/coffee-sales-excel.git
    ```
 2. Open `Coffee_Sales_Data.xlsx` in **Microsoft Excel**.
 3. Navigate to the **Dashboard** sheet to view insights.
