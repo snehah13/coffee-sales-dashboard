@@ -55,8 +55,9 @@ This project is licensed under the **MIT License** – feel free to use and modi
 ## 🔗 Contact
 For any questions or collaborations, reach out via:
 - 📧 Email: your-snehaah13@gmail.com
-
-
+## Author
+sneha H
+GitHub: snehah13
 
 ---
 ☕ **Excel makes data insights accessible and actionable!** 🚀
