@@ -49,8 +49,6 @@ If you'd like to contribute or improve the dashboard:
 - Fork the repository
 - Make changes and create a pull request
 
-## 📜 License
-This project is licensed under the **MIT License** – feel free to use and modify it.
 
 ## 🔗 Contact
 For any questions or collaborations, reach out via:
